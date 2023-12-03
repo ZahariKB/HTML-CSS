@@ -1,9 +1,0 @@
-td {
-    border: 1px solid black;
-}
-table {
-    border: 2px solid black;
-}
-img + p {
-    font-style:italic;
-}
